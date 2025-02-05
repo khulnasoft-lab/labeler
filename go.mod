@@ -11,5 +11,5 @@ require (
 	github.com/tonglil/versioning v0.0.0-20170205083536-8b2a4334bd1d
 	golang.org/x/oauth2 v0.0.0-20180821212333-d2e6202438be
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
-	gopkg.in/yaml.v2 v2.0.0-20160928153709-a5b47d31c556
+	gopkg.in/yaml.v2 v2.4.0
 )
